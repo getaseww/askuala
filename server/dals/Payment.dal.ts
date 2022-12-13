@@ -41,7 +41,7 @@ class PaymentDAL{
         })
     }
 
-    static update(payment:Payment,data:Payment,transaction:Transaction){
+    static update(payment:Payment,data:Payment,transaction?:Transaction){
         return new Promise((resolve,reject)=>{
             if(payment){
             if(data.first_name) payment.first_name=data.first_name;

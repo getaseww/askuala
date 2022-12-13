@@ -41,7 +41,7 @@ class EducationDAL {
         })
     }
 
-    static update(education: Education, data: Education, transaction: Transaction) {
+    static update(education: Education, data: Education, transaction?: Transaction) {
         return new Promise((resolve, reject) => {
             if (education) {
                 if (data.start_date) education.start_date = data.start_date;

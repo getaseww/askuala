@@ -41,7 +41,7 @@ class ReviewService {
     static findAll(query:any):Promise<Review[]>{
         return new Promise((resolve,reject)=>{
             ReviewDAL.findMany(query)
-            .then((user:any)=>{resolve(user)})
+            .then((result:any)=>{resolve(result)})
             .catch((error)=>{
                 reject(new InternalServerError(error));
             })     

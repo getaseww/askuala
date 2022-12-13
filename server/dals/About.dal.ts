@@ -40,7 +40,7 @@ class AboutDAL{
         })
     }
 
-    static update(about:About,data:About,transaction:Transaction){
+    static update(about:About,data:About,transaction?:Transaction){
         return new Promise((resolve,reject)=>{
             if(about){
 

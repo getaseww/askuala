@@ -41,7 +41,7 @@ class ProfileService {
     static findAll(query:any):Promise<Profile[]>{
         return new Promise((resolve,reject)=>{
             ProfileDAL.findMany(query)
-            .then((user:any)=>{resolve(user)})
+            .then((result:any)=>{resolve(result)})
             .catch((error)=>{
                 reject(new InternalServerError(error));
             })     
