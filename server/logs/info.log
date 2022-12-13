@@ -1,0 +1,130 @@
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T08:38:26.980Z'
+}
+{
+  message: "Database connection error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'auto_increment , `title` VARCHAR(255) NOT NULL, `phone_number` VARCHAR(255), ...' at line 1",
+  level: 'error',
+  timestamp: '2022-12-12T08:38:27.649Z'
+}
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T08:40:09.168Z'
+}
+{
+  message: "Database connection error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `desc` TEXT, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, `...' at line 1",
+  level: 'error',
+  timestamp: '2022-12-12T08:40:10.229Z'
+}
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T08:41:07.454Z'
+}
+{
+  message: "Database connection error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `desc` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT...' at line 1",
+  level: 'error',
+  timestamp: '2022-12-12T08:41:07.684Z'
+}
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T08:42:20.421Z'
+}
+{
+  message: "Database connection error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `desc` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT...' at line 1",
+  level: 'error',
+  timestamp: '2022-12-12T08:42:20.655Z'
+}
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T08:43:53.952Z'
+}
+{
+  message: "Database connection error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `desc` TEXT, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, `...' at line 1",
+  level: 'error',
+  timestamp: '2022-12-12T08:43:54.189Z'
+}
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T08:44:50.246Z'
+}
+{
+  message: "Database connection error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, `user_id` INTE...' at line 1",
+  level: 'error',
+  timestamp: '2022-12-12T08:44:50.476Z'
+}
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T08:46:18.002Z'
+}
+{
+  message: "Database connection error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `desc` TEXT, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, `...' at line 1",
+  level: 'error',
+  timestamp: '2022-12-12T08:46:18.228Z'
+}
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T09:04:14.104Z'
+}
+{
+  message: "Database connection error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `desc` TEXT, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, `...' at line 1",
+  level: 'error',
+  timestamp: '2022-12-12T09:04:14.335Z'
+}
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T10:57:00.429Z'
+}
+{
+  message: "Database connection error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `desc` TEXT, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, `...' at line 1",
+  level: 'error',
+  timestamp: '2022-12-12T10:57:00.735Z'
+}
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T10:59:05.089Z'
+}
+{
+  message: "Database connection error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'NOT NULL, `tx_ref` VARCHAR(255) NOT NULL, `createdAt` DATETIME NOT NULL, `upd...' at line 1",
+  level: 'error',
+  timestamp: '2022-12-12T10:59:05.606Z'
+}
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T10:59:33.965Z'
+}
+{
+  message: "Database connection error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'NOT NULL, `review` VARCHAR(255), `ip` VARCHAR(255) NOT NULL, `createdAt` DATE...' at line 1",
+  level: 'error',
+  timestamp: '2022-12-12T10:59:34.437Z'
+}
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T11:00:14.971Z'
+}
+{
+  message: 'Connection has been established successfully.',
+  level: 'info',
+  timestamp: '2022-12-12T11:00:15.355Z'
+}
+{
+  message: 'Tutor Running on port 8000',
+  level: 'info',
+  timestamp: '2022-12-12T11:24:19.638Z'
+}
+{
+  message: 'Connection has been established successfully.',
+  level: 'info',
+  timestamp: '2022-12-12T11:24:20.595Z'
+}
