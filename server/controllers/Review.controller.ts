@@ -7,8 +7,6 @@ import { Review } from '../models/Review';
 
 
 class ReviewController{
-
-
     static create(req:Request,res:Response) {
         const Schema=new evalidate.schema({
             rate:evalidate.number().required(),
