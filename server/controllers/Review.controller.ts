@@ -13,6 +13,7 @@ class ReviewController{
         const Schema=new evalidate.schema({
             rate:evalidate.number().required(),
             content:evalidate.string(),
+            user_id:evalidate.number().required(),
         })
 
         const payload=req.body;

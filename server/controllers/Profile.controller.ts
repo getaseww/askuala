@@ -16,6 +16,7 @@ class ProfileController{
             region:evalidate.number(),
             city:evalidate.number(),
             img:evalidate.string(),
+            user_id:evalidate.number().required(),
         })
 
         const payload=req.body;
@@ -81,6 +82,7 @@ class ProfileController{
         .catch((error)=>{
             res.status(error.statusCode).json(error.payload);
         })
+        
     }
 
 }
